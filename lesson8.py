@@ -18,9 +18,7 @@ print(b.capitalize())
 
 print(c.swapcase())
 
-'''4'''
 
-'''Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam malesuada, est vitae suscipit vestibulum,'''
 
 # my_string = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam malesuada, est vitae suscipit vestibulum,'
 # n = int(input())
